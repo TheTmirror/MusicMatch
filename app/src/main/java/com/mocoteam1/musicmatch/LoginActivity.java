@@ -15,6 +15,7 @@ import java.util.Random;
 public class LoginActivity extends AppCompatActivity {
 
     private static final String TAG = LoginActivity.class.getSimpleName();
+    //Test
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
