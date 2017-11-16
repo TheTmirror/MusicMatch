@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">MusicMatch</string>
+
+    <!-- LoginActivity -->
+    <string name="login_activity_welcome">Zum Einloggen bitte Benutzername und Passwort angeben</string>
+    <string name="login_activity_username_hint">Benutzername</string>
+    <string name="login_activity_password_hint">Passwort</string>
+    <string name="login_activity_login_error">Die eingegebenen Daten sind nicht korrekt</string>
+    <string name="login_activity_ok_button">Login</string>
+
+    <!-- ShareSong -->
+    <string name="share_song_title_dummy">Lore Ipsum Title</string>
+    <string name="share_song_artist_dummy">Lore Ipsum Artist</string>
+    <string name="share_song_commentary_hint">Teile deine Gedanken!</string>
+    <string name="share_song_share_button">Share</string>
+</resources>
